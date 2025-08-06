@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **PHP,C# or Golang**
+- 💬 Ask me about **PHP, C# or Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
