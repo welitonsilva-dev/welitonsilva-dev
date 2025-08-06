@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, i'm Weliton Silva</h1>
 <h3 align="center">I'm an experienced full-stack developer, currently focusing on the backend, particularly web and mobile application development. I'm passionate about solving problems with creativity, proactivity, and a long-term vision, always writing code designed to facilitate system maintenance, integration, and evolution.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=welitonsilva-dev&label=Profile%20views&color=0e75b6&style=flat" alt="welitonsilva-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=welitonsilva-dev" alt="welitonsilva-dev" /></a> </p>
-
 - 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **PHP,C# or Golang**
