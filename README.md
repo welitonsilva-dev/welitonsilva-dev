@@ -22,13 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=welitonsilva-dev&show_icons=true&locale=en" alt="welitonsilva-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=welitonsilva-dev&" alt="welitonsilva-dev" /></p>
-
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
