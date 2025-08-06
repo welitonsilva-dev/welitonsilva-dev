@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=welitonsilva-dev&show_icons=true&locale=en&layout=compact" alt="welitonsilva-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=welitonsilva-dev&" alt="welitonsilva-dev" /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=welitonsilva-dev&show_icons=true&theme=dark&count_private=true&hide_title=true" /></p>
