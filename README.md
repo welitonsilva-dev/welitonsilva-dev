@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23241
-Fork on GitHub
-7871
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, i'm Weliton Silva</h1>
 <h3 align="center">I'm an experienced full-stack developer, currently focusing on the backend, particularly web and mobile application development. I'm passionate about solving problems with creativity, proactivity, and a long-term vision, always writing code designed to facilitate system maintenance, integration, and evolution.</h3>
 
